@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Courtside — NBA, in focus
 
 Courtside is a client-side React single-page app for following NBA game scores, looking up player profiles and season averages, and finding recent highlight clips. Save players to a personal list that persists in the browser.
@@ -46,3 +47,6 @@ Complete this section with your pair's names and actual contributions before sub
 
 - **Team member 1:** [Name] — [features or components contributed].
 - **Team member 2:** [Name] — [features or components contributed].
+=======
+# finalproject
+>>>>>>> dad3c80d17d4d4b3e451c5f0126604694c69b7cf
